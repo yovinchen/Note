@@ -57,7 +57,7 @@ mybatis mybatis-spring spring mysql spring-tx spring-jdbc commons-dbcp2
 
 mybatis 中的 t_customer
 
-![image-20220426132557267](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220426132557267.png)
+![image-20220426132557267](https://lsky.hhdxw.top/imghub/img/image-20220426132557267.png)
 
 #### 2.创建实体类
 
@@ -143,7 +143,7 @@ public void findCustomerByIdTest(){
 }
 ```
 
-![image-20220426134717655](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220426134717655.png)
+![image-20220426134717655](https://lsky.hhdxw.top/imghub/img/image-20220426134717655.png)
 
 ## 基于Mapper方式的整合
 
@@ -231,7 +231,7 @@ public void findCustomerById(){
 }
 ```
 
-![image-20220426135752830](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220426135752830.png)
+![image-20220426135752830](https://lsky.hhdxw.top/imghub/img/image-20220426135752830.png)
 
 虽然使用Mapper接口编程的方式很简单，但是在具体使用时还是需要遵循以下规范。
 
@@ -286,4 +286,4 @@ public void findCustomerById1(){
 }
 ```
 
-![image-20220427102429052](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220427102429052.png)
+![image-20220427102429052](https://lsky.hhdxw.top/imghub/img/image-20220427102429052.png)

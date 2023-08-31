@@ -106,7 +106,7 @@ private String username;
 
 运行结果如图：
 
-![image-20220310180658138](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220310180658138.png)
+![image-20220310180658138](https://lsky.hhdxw.top/imghub/img/image-20220310180658138.png)
 
 ### 总结：基于XML的装配使用方式：
 
@@ -285,7 +285,7 @@ public class Test {
 
 装配成功运行结果如截图如下：
 
-![image-20220311125821133](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220311125821133.png)
+![image-20220311125821133](https://lsky.hhdxw.top/imghub/img/image-20220311125821133.png)
 
 ### 3.自动装配
 

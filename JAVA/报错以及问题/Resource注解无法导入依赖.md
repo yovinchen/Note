@@ -11,7 +11,7 @@ tags:
 
 最近在学习Spring的过程中遇到了一个棘手的问题：使用Resource注解时报错了。
 
-![image-20220315214739187](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220315214739187.png)
+![image-20220315214739187](https://lsky.hhdxw.top/imghub/img/image-20220315214739187.png)
 
 当时上面的**@Resource**爆红，忘了截图
 
@@ -25,6 +25,6 @@ tags:
 </dependency>
 ```
 
-![image-20220315215743445](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220315215743445.png)
+![image-20220315215743445](https://lsky.hhdxw.top/imghub/img/image-20220315215743445.png)
 
 但是我用了这个方法没有用，依旧爆红，后来我换了**JDK**从16，17，1.6，1.8，在最后**JDK9**能用了

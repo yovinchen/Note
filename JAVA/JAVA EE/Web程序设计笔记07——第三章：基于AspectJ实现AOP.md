@@ -180,11 +180,11 @@ public class XmlTest {
 
 正常运行结果：
 
-![image-20220328214914512](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220328214914512.png)
+![image-20220328214914512](https://lsky.hhdxw.top/imghub/img/image-20220328214914512.png)
 
 运行发生异常截图：出现结果为零异常
 
-![image-20220328214954611](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220328214954611.png)
+![image-20220328214954611](https://lsky.hhdxw.top/imghub/img/image-20220328214954611.png)
 
 ### 二、基于注解（Annotation）-------减少xml中的代码量
 
@@ -325,4 +325,4 @@ public class AnnotationTest {
 
 运行截图：
 
-![image-20220328215304530](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220328215304530.png)
+![image-20220328215304530](https://lsky.hhdxw.top/imghub/img/image-20220328215304530.png)

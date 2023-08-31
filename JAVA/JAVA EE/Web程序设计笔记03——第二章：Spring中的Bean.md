@@ -61,7 +61,7 @@ public static void main(String[] args) {
 
 程序执行截图：
 
-![image-20220309123304518](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220309123304518.png)
+![image-20220309123304518](https://lsky.hhdxw.top/imghub/img/image-20220309123304518.png)
 
 ## 3、静态工厂实例化
 
@@ -96,7 +96,7 @@ public static void main(String[] args) {
 
 程序执行截图：
 
-![image-20220309142136727](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220309142136727.png)
+![image-20220309142136727](https://lsky.hhdxw.top/imghub/img/image-20220309142136727.png)
 
 ## 4、实例工厂实例化
 
@@ -141,4 +141,4 @@ public static void main(String[] args) {
 
 程序执行截图：
 
-![image-20220309144326438](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220309144326438.png)
+![image-20220309144326438](https://lsky.hhdxw.top/imghub/img/image-20220309144326438.png)

@@ -191,7 +191,7 @@ public class MybatisTest {
 
 运行结果如下：
 
-![image-20220412211705869](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220412211705869.png)
+![image-20220412211705869](https://lsky.hhdxw.top/imghub/img/image-20220412211705869.png)
 
 ### 2.创建工具类，对外提供SqlSession对象
 
@@ -231,7 +231,7 @@ public class MyBatisTest {
 
 运行截图：
 
-![image-20220412213246062](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220412213246062.png)
+![image-20220412213246062](https://lsky.hhdxw.top/imghub/img/image-20220412213246062.png)
 
 
 
@@ -269,7 +269,7 @@ jdbc.password=8520
 
 （3）测试运行截图
 
-![image-20220413084844679](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220413084844679.png)
+![image-20220413084844679](https://lsky.hhdxw.top/imghub/img/image-20220413084844679.png)
 
 ### 2.typeAliases元素 给实体类起别名
 
@@ -292,7 +292,7 @@ jdbc.password=8520
 
 （3）测试截图如下：
 
-![image-20220413090235983](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220413090235983.png)
+![image-20220413090235983](https://lsky.hhdxw.top/imghub/img/image-20220413090235983.png)
 
 ## 7.3 映射文件
 
@@ -306,7 +306,7 @@ jdbc.password=8520
 
 Customer{id=2, name='null', jobs='teacher', phone='13521210112'}
 
-![image-20220413091252095](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220413091252095.png)
+![image-20220413091252095](https://lsky.hhdxw.top/imghub/img/image-20220413091252095.png)
 
 （3）如何解决当实体类中的成员变量名和表中字段名字不一致时，还可以将字段值赋值给成员变量？
 
@@ -358,7 +358,7 @@ log4j.appender.stdout.layout.ConversionPattern=%5p [%t]-%m%n
 
 （3）resources 下  创建com,把CustomerMapper.xml文件移动到com下
 
-![image-20220413093052137](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220413093052137.png)
+![image-20220413093052137](https://lsky.hhdxw.top/imghub/img/image-20220413093052137.png)
 
 （4）修改两个xml文件
 
@@ -382,4 +382,4 @@ Customer o = sqlSession.selectOne("com.CustomerMapper.findCustomerById", 2);
 
 （6）运行截图
 
-![image-20220413092737690](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220413092737690.png)
+![image-20220413092737690](https://lsky.hhdxw.top/imghub/img/image-20220413092737690.png)

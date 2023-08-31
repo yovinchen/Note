@@ -40,7 +40,7 @@
 
 ### 2.功能测试
 
-![image-20230415215051344](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20230415215051344.png)
+![image-20230415215051344](https://lsky.hhdxw.top/imghub/img/image-20230415215051344.png)
 
 #### 1.切换测试
 
@@ -128,7 +128,7 @@
 
 ## 4.移动app测试流程
 
-![image-20230415214818612](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20230415214818612.png)
+![image-20230415214818612](https://lsky.hhdxw.top/imghub/img/image-20230415214818612.png)
 
  ●  接受测试版本：由开发人员提交给测试人员。
  ●   App版本测试：主要检查测试App开发阶段对应的版本是否一致。

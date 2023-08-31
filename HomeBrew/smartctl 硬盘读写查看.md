@@ -40,7 +40,7 @@ smartctl -a /dev/disk0
 
 其中，`-a` 选项用于显示所有可用的 SMART 信息，`/dev/disk0` 表示要检测的硬盘设备文件。
 
-![c87f114b790cfba15db88f5e1d1d9e96](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/c87f114b790cfba15db88f5e1d1d9e96.png)
+![c87f114b790cfba15db88f5e1d1d9e96](https://lsky.hhdxw.top/imghub/img/c87f114b790cfba15db88f5e1d1d9e96.png)
 
 结果如下，里面的Percentage Used 就是损耗值，Data Units Written 就是写入量。
 

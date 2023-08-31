@@ -126,7 +126,7 @@ webapp下的jsp文件可以通过url直接访问
 </body>
 ```
 
-![image-20220517103654553](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220517103654553.png)
+![image-20220517103654553](https://lsky.hhdxw.top/imghub/img/image-20220517103654553.png)
 
 ### 6.创建控制器
 
@@ -181,11 +181,11 @@ public class FileUploadController {
 
 ### 7.发布项目
 
-![image-20220517105222969](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220517105222969.png)
+![image-20220517105222969](https://lsky.hhdxw.top/imghub/img/image-20220517105222969.png)
 
-![image-20220517105211357](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220517105211357.png)
+![image-20220517105211357](https://lsky.hhdxw.top/imghub/img/image-20220517105211357.png)
 
-![image-20220517105334825](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220517105334825.png)
+![image-20220517105334825](https://lsky.hhdxw.top/imghub/img/image-20220517105334825.png)
 
 ## 2.文件下载
 
@@ -275,8 +275,8 @@ public String getFilename(HttpServletRequest request,String filename) throws Exc
 
 用第一个控制器，下载的文件不是中文名称
 
-![image-20220517112749837](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220517112749837.png)
+![image-20220517112749837](https://lsky.hhdxw.top/imghub/img/image-20220517112749837.png)
 
 用第二个控制器，下载的文件是中文名称
 
-![image-20220517113013424](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220517113013424.png)
+![image-20220517113013424](https://lsky.hhdxw.top/imghub/img/image-20220517113013424.png)

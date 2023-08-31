@@ -68,7 +68,7 @@ public class TsetDI {
 }
 ```
 
-![image-20220303222001817](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220303222001817.png)
+![image-20220303222001817](https://lsky.hhdxw.top/imghub/img/image-20220303222001817.png)
 
 ## 1.IOC（控制反转）：类对象的创建由程序员转给了Spring框架
 

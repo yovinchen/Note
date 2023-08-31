@@ -170,7 +170,7 @@ public class AopTest {
 
 代码实现截图：
 
-![image-20220324140614514](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220324140614514.png)
+![image-20220324140614514](https://lsky.hhdxw.top/imghub/img/image-20220324140614514.png)
 
 
 
@@ -208,7 +208,7 @@ public class ExceptionTest {
 }
 ```
 
-![image-20220324142225871](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220324142225871.png)
+![image-20220324142225871](https://lsky.hhdxw.top/imghub/img/image-20220324142225871.png)
 
 #### （2）空指针异常：
 
@@ -228,7 +228,7 @@ public class ExceptionTest2 {
 }
 ```
 
-![image-20220324143554018](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220324143554018.png)
+![image-20220324143554018](https://lsky.hhdxw.top/imghub/img/image-20220324143554018.png)
 
 ### 2.处理异常
 

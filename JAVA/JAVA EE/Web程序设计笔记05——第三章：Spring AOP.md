@@ -56,7 +56,7 @@ public class Test {
 
 运行截图：
 
-![image-20220323125142944](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220323125142944.png)
+![image-20220323125142944](https://lsky.hhdxw.top/imghub/img/image-20220323125142944.png)
 
 ## AOP术语
 
@@ -172,7 +172,7 @@ public class JdkTest {
 
 运行截图：
 
-![image-20220323150132535](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220323150132535.png)
+![image-20220323150132535](https://lsky.hhdxw.top/imghub/img/image-20220323150132535.png)
 
 
 
@@ -263,7 +263,7 @@ public class cglibTest {
 
 运行截图如下：
 
-![image-20220324113512719](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220324113512719.png)
+![image-20220324113512719](https://lsky.hhdxw.top/imghub/img/image-20220324113512719.png)
 
 JDK代理和CGLIB代理方式的缺点？
 

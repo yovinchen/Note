@@ -61,11 +61,11 @@
 
 在包上右击选择
 
-![image-20221004104302195](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20221004104302195.png)
+![image-20221004104302195](https://lsky.hhdxw.top/imghub/img/image-20221004104302195.png)
 
 一个页面对应一个布局文件 xml
 
-![image-20221004104505572](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20221004104505572.png)
+![image-20221004104505572](https://lsky.hhdxw.top/imghub/img/image-20221004104505572.png)
 
 ### 4.2.2 配置Activity
 
@@ -167,7 +167,7 @@ public class MyActivity extends AppCompatActivity implements View.OnClickListene
 </LinearLayout>
 ```
 
-![image-20221006123245336](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20221006123245336.png)
+![image-20221006123245336](https://lsky.hhdxw.top/imghub/img/image-20221006123245336.png)
 
 ```java
 public class A extends AppCompatActivity implements View.OnClickListener {
@@ -240,7 +240,7 @@ public class A extends AppCompatActivity implements View.OnClickListener {
 </manifest>
 ```
 
-![image-20221006123256251](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20221006123256251.png)
+![image-20221006123256251](https://lsky.hhdxw.top/imghub/img/image-20221006123256251.png)
 
 ## 4.4 Activity之间的跳转
 
@@ -388,7 +388,7 @@ public class SecondActivity extends AppCompatActivity {
 }
 ```
 
-![image-20221011112153331](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20221011112153331.png)
+![image-20221011112153331](https://lsky.hhdxw.top/imghub/img/image-20221011112153331.png)
 
 ### 4.4.2 Activity之间的数据回传
 

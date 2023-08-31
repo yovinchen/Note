@@ -113,7 +113,7 @@ success
 
 #### 7.在 tomcat 服务器上部署项目，发布项目
 
-![image-20220506220115521](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506220115521.png)
+![image-20220506220115521](https://lsky.hhdxw.top/imghub/img/image-20220506220115521.png)
 
 #### 7.测试 发送：
 
@@ -121,7 +121,7 @@ success
 http://localhost:8080/c15/selectUser?id=1
 ```
 
-![image-20220506220059705](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506220059705.png)
+![image-20220506220059705](https://lsky.hhdxw.top/imghub/img/image-20220506220059705.png)
 
 ### （2）简单的数据类型 int double float string
 
@@ -141,7 +141,7 @@ public String getUser(int id) {
 http://localhost:8080/c15/getUser?id=4
 ```
 
-![image-20220506221558058](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506221558058.png)
+![image-20220506221558058](https://lsky.hhdxw.top/imghub/img/image-20220506221558058.png)
 
 
 
@@ -149,11 +149,11 @@ http://localhost:8080/c15/getUser?id=4
 
 当 **getuser()** 中的参数 **i** 要和后面的一致，在绑定时也要进行相应更改
 
-![image-20220506222128788](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506222128788.png)
+![image-20220506222128788](https://lsky.hhdxw.top/imghub/img/image-20220506222128788.png)
 
 添加注解 **@RequestParam** 就可以将 **id** 参数的值绑定到 **a** 上
 
-![image-20220506222455550](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506222455550.png)
+![image-20220506222455550](https://lsky.hhdxw.top/imghub/img/image-20220506222455550.png)
 
 ### （3）POJO plain old Java object
 
@@ -200,7 +200,7 @@ public String registerUser(User user) {
 
 #### 4.测试 发布
 
-![image-20220506223113983](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506223113983.png)
+![image-20220506223113983](https://lsky.hhdxw.top/imghub/img/image-20220506223113983.png)
 
 在中文的情况下可能会发生乱码，所以添加编码过滤器，将所有文件用 utf-8 格式编码
 
@@ -224,7 +224,7 @@ public String registerUser(User user) {
 
 测试 发布：中文不会产生乱码
 
-![image-20220506223612935](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506223612935.png)
+![image-20220506223612935](https://lsky.hhdxw.top/imghub/img/image-20220506223612935.png)
 
 ### （4）包装的POJO类型
 
@@ -278,7 +278,7 @@ public class OrdersController {
 
 #### 4.测试 发布
 
-![image-20220507091032381](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220507091032381.png)
+![image-20220507091032381](https://lsky.hhdxw.top/imghub/img/image-20220507091032381.png)
 
 ## 3.复杂的数据绑定
 
@@ -333,11 +333,11 @@ public class OrdersController {
 
 #### 3.测试 发布：
 
-![image-20220506224513695](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506224513695.png)
+![image-20220506224513695](https://lsky.hhdxw.top/imghub/img/image-20220506224513695.png)
 
 
 
-![image-20220506224526191](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506224526191.png)
+![image-20220506224526191](https://lsky.hhdxw.top/imghub/img/image-20220506224526191.png)
 
 ### （2）绑定集合
 
@@ -407,4 +407,4 @@ private List<User> users;
 
 #### 4.测试发布
 
-![image-20220507121847120](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220507121847120.png)
+![image-20220507121847120](https://lsky.hhdxw.top/imghub/img/image-20220507121847120.png)

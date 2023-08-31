@@ -81,7 +81,7 @@ public class JdbcTest {
 
 运行结果如下：数据库中已经成功创建表account
 
-![image-20220329195454770](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220329195454770.png)
+![image-20220329195454770](https://lsky.hhdxw.top/imghub/img/image-20220329195454770.png)
 
 ## 二、update()：增删改
 
@@ -277,15 +277,15 @@ public class JdbcTest {
 
 1.创建两个数据
 
-![image-20220331221520933](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220331221520933.png)
+![image-20220331221520933](https://lsky.hhdxw.top/imghub/img/image-20220331221520933.png)
 
 2.测试删除数据
 
-![image-20220331221604934](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220331221604934.png)
+![image-20220331221604934](https://lsky.hhdxw.top/imghub/img/image-20220331221604934.png)
 
 3.更新数据
 
-![image-20220331221704292](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220331221704292.png)
+![image-20220331221704292](https://lsky.hhdxw.top/imghub/img/image-20220331221704292.png)
 
 ###  补充：
 
@@ -392,9 +392,9 @@ public void findAllAccoundsTest() {
 
 1.单个查询
 
-![image-20220331223326855](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220331223326855.png)
+![image-20220331223326855](https://lsky.hhdxw.top/imghub/img/image-20220331223326855.png)
 
 2.多项查询
 
-![image-20220331223422159](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220331223422159.png)
+![image-20220331223422159](https://lsky.hhdxw.top/imghub/img/image-20220331223422159.png)
 

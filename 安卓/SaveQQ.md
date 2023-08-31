@@ -2,7 +2,7 @@
 
 首先将背景图`bg`拷贝到`drawable`
 
-![bg](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/bg.png)
+![bg](https://lsky.hhdxw.top/imghub/img/bg.png)
 
 然后在`layout`文件下编写页面文件`activity_main.xml`
 
@@ -94,7 +94,7 @@
 </LinearLayout>
 ```
 
-![image-20221020093735433](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20221020093735433.png)
+![image-20221020093735433](https://lsky.hhdxw.top/imghub/img/image-20221020093735433.png)
 
 ## 2.后端代码编写
 

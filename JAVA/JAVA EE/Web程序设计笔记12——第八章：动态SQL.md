@@ -74,11 +74,11 @@ public void findCustomerByNameAndJobsTest(){
 
 传一个名字，按名字查询：
 
-![image-20220415134517801](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220415134517801.png)
+![image-20220415134517801](https://lsky.hhdxw.top/imghub/img/image-20220415134517801.png)
 
 不传参查询全部：
 
-![image-20220415134721203](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220415134721203.png)
+![image-20220415134721203](https://lsky.hhdxw.top/imghub/img/image-20220415134721203.png)
 
 ### 2. choose - when - otherwise 元素
 
@@ -134,11 +134,11 @@ public void findCustomerByNameOrJobs(){
 
 传职业，按职业查询：
 
-![image-20220415134806665](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220415134806665.png)
+![image-20220415134806665](https://lsky.hhdxw.top/imghub/img/image-20220415134806665.png)
 
 不传参，查询有手机号：
 
-![image-20220415134848949](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220415134848949.png)
+![image-20220415134848949](https://lsky.hhdxw.top/imghub/img/image-20220415134848949.png)
 
 ### 3. where 元素
 
@@ -183,11 +183,11 @@ public void findCustomerByNameAndJobs1Test(){
 
 传一个名字，按名字查询：
 
-![image-20220415135501209](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220415135501209.png)
+![image-20220415135501209](https://lsky.hhdxw.top/imghub/img/image-20220415135501209.png)
 
 不传参查询全部：
 
-![image-20220415135537915](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220415135537915.png)
+![image-20220415135537915](https://lsky.hhdxw.top/imghub/img/image-20220415135537915.png)
 
 ### 4. set 元素
 
@@ -230,4 +230,4 @@ public void updateCustomer(){
 
 运行截图：
 
-![image-20220415135735652](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220415135735652.png)
+![image-20220415135735652](https://lsky.hhdxw.top/imghub/img/image-20220415135735652.png)

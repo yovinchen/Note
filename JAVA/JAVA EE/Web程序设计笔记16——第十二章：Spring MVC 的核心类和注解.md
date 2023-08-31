@@ -147,11 +147,11 @@ public class MyController {
 
 ### 6.在tomcat服务器上部署项目
 
-![image-20220506092448960](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506092448960.png)
+![image-20220506092448960](https://lsky.hhdxw.top/imghub/img/image-20220506092448960.png)
 
 ### 7.成功发布项目
 
-![image-20220506093333560](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506093333560.png)
+![image-20220506093333560](https://lsky.hhdxw.top/imghub/img/image-20220506093333560.png)
 
 ## 4.定义视图解析器（配置前后缀）
 
@@ -188,4 +188,4 @@ public class MyController {
 
 ### 3.重新发布项目
 
-![image-20220506094644157](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220506094644157.png)
+![image-20220506094644157](https://lsky.hhdxw.top/imghub/img/image-20220506094644157.png)

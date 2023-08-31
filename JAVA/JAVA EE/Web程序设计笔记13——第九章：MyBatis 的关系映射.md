@@ -48,7 +48,7 @@ insert into tb_person(name,age,sex,card_id) values
 ('Tom',20,'男',2);
 ```
 
-![image-20220419102233809](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220419102233809.png)
+![image-20220419102233809](https://lsky.hhdxw.top/imghub/img/image-20220419102233809.png)
 
 #### 2.创建项目，导入依赖：mybatis mysql
 
@@ -176,7 +176,7 @@ public class MyBatisTest {
 
 运行截图：
 
-![image-20220419112333746](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220419112333746.png)
+![image-20220419112333746](https://lsky.hhdxw.top/imghub/img/image-20220419112333746.png)
 
 ### 二、使用嵌套结果：根据id查询客户的所有信息(id,name,age,sex,Car_id,code)
 
@@ -221,7 +221,7 @@ public class MyBatisTest {
 }
 ```
 
-![image-20220419120201332](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220419120201332.png)
+![image-20220419120201332](https://lsky.hhdxw.top/imghub/img/image-20220419120201332.png)
 
 
 

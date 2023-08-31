@@ -68,7 +68,7 @@ FirstController 类的包 实现HttpServletResponse HttpServletRequest两个方�
 
 首先在 java 下创建包 com.gzh.controller ，然后创建 FirstController 类，实现接口选择 Controller 第一个
 
-![image-20220430213958181](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220430213958181.png)
+![image-20220430213958181](https://lsky.hhdxw.top/imghub/img/image-20220430213958181.png)
 
 ```java
 public class FirstController implements Controller {
@@ -130,33 +130,33 @@ public class FirstController implements Controller {
 
 （3）选择 Tomcat  服务区 本地服务（Local 本地 	remote 远程服务）
 
-![image-20220430215445248](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220430215445248.png)
+![image-20220430215445248](https://lsky.hhdxw.top/imghub/img/image-20220430215445248.png)
 
 （4）点击配置服务器，选择 Tomcat  服务器的主目录
 
-![image-20220430215956914](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220430215956914.png)
+![image-20220430215956914](https://lsky.hhdxw.top/imghub/img/image-20220430215956914.png)
 
 （5）点击部署，点击添加服务，选择工件（Artifact） 
 
-![image-20220430220220555](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220430220220555.png)
+![image-20220430220220555](https://lsky.hhdxw.top/imghub/img/image-20220430220220555.png)
 
 （6）随便选择一个即可
 
-![image-20220430220452741](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220430220452741.png)
+![image-20220430220452741](https://lsky.hhdxw.top/imghub/img/image-20220430220452741.png)
 
 （7）最好将 应用程序上下文 改为项目名称
 
-![image-20220430220832300](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220430220832300.png)
+![image-20220430220832300](https://lsky.hhdxw.top/imghub/img/image-20220430220832300.png)
 
 （8）然后启用服务器就可以了
 
-![image-20220430221340859](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220430221340859.png)
+![image-20220430221340859](https://lsky.hhdxw.top/imghub/img/image-20220430221340859.png)
 
 ## 6.项目部署
 
 在 `http://localhost:8080/c11/firstController` 链接中能够看到实现的语句
 
-![image-20220430221617115](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220430221617115.png)
+![image-20220430221617115](https://lsky.hhdxw.top/imghub/img/image-20220430221617115.png)
 
 项目根目录：`http://localhost:8080/c11/`
 
@@ -166,7 +166,7 @@ public class FirstController implements Controller {
 
 
 
-![image-20220430221939788](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220430221939788.png)
+![image-20220430221939788](https://lsky.hhdxw.top/imghub/img/image-20220430221939788.png)
 
 （1）用户通过客户端向服务器发送请求，请求会被Spring MVC的前端控制器DispatcherServlet所拦截。
 

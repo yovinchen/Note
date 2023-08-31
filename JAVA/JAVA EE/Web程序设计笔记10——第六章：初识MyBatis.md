@@ -57,7 +57,7 @@ insert into t_customer values
 ('3','tom','worker','15179405961');
 ```
 
-![image-20220405130626049](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405130626049.png)
+![image-20220405130626049](https://lsky.hhdxw.top/imghub/img/image-20220405130626049.png)
 
 #### （2）创建项目，导2个包：mybatis   mysql-connector-java
 
@@ -153,13 +153,13 @@ public class Customer {
 </mapper>
 ```
 
-![image-20220405131535640](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405131535640.png)
+![image-20220405131535640](https://lsky.hhdxw.top/imghub/img/image-20220405131535640.png)
 
 ##### 2.创建CustomerMapper.xml文件
 
 在 resources 文件夹右击选择 new（新建）Mapper
 
-![image-20220405132203804](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405132203804.png)
+![image-20220405132203804](https://lsky.hhdxw.top/imghub/img/image-20220405132203804.png)
 
 ##### 3.写sql语句
 
@@ -177,7 +177,7 @@ public class Customer {
 </select>
 ```
 
-![image-20220405132451651](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405132451651.png)
+![image-20220405132451651](https://lsky.hhdxw.top/imghub/img/image-20220405132451651.png)
 
 #### （5）在resources文件夹下创建mybatis-config.xml文件，该文件是MyBatis框架的配置文件
 
@@ -194,13 +194,13 @@ public class Customer {
 </configuration>
 ```
 
-![image-20220405131954150](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405131954150.png)
+![image-20220405131954150](https://lsky.hhdxw.top/imghub/img/image-20220405131954150.png)
 
 ##### 2.创建mybatis-config.xml文件
 
 在 resources 文件夹右击选择 new（新建）mybatis-config 
 
-![image-20220405132528897](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405132528897.png)
+![image-20220405132528897](https://lsky.hhdxw.top/imghub/img/image-20220405132528897.png)
 
 ##### 3.配置MyBatis框架
 
@@ -228,7 +228,7 @@ public class Customer {
 </configuration>
 ```
 
-![image-20220405132915669](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405132915669.png)
+![image-20220405132915669](https://lsky.hhdxw.top/imghub/img/image-20220405132915669.png)
 
 #### （6）单元测试：查询
 
@@ -238,11 +238,11 @@ public class Customer {
 
 通过 CustomerMapper.xml 文件中的 select 的 id 的值来命名测试类
 
-![image-20220405133745512](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405133745512.png)
+![image-20220405133745512](https://lsky.hhdxw.top/imghub/img/image-20220405133745512.png)
 
 在输入 **Resources** 时通过提示导入名为 org 开头的包
 
-![image-20220405134057509](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405134057509.png)
+![image-20220405134057509](https://lsky.hhdxw.top/imghub/img/image-20220405134057509.png)
 
 在此输入完此行代码后 getResourceAsStream 会爆红，不用管后续处理
 
@@ -264,13 +264,13 @@ SqlSession sqlSession = sqlSessionFactory.openSession();
 
 因为要测试多个方法，所以将以上构造剪切到**成员变量**
 
-![image-20220405134848712](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405134848712.png)
+![image-20220405134848712](https://lsky.hhdxw.top/imghub/img/image-20220405134848712.png)
 
 ##### 4.处理爆红错误
 
 将鼠标放置到爆红的 resourceAsStream 处 Alt+回车 处理问题，选择添加类默认构造函数签名的异常
 
-![image-20220405134938312](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405134938312.png)
+![image-20220405134938312](https://lsky.hhdxw.top/imghub/img/image-20220405134938312.png)
 
 ##### 5.导包 Test ，并写完查询类
 
@@ -309,7 +309,7 @@ public class MybatisTest {
 
 运行结果如下：
 
-![image-20220405135447683](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220405135447683.png)
+![image-20220405135447683](https://lsky.hhdxw.top/imghub/img/image-20220405135447683.png)
 
 ### 1.根据id查询客户
 
@@ -327,7 +327,7 @@ public void findCustomerById() {
 }
 ```
 
-![image-20220407152029547](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152029547.png)
+![image-20220407152029547](https://lsky.hhdxw.top/imghub/img/image-20220407152029547.png)
 
 ### 2.根据姓名模糊查询
 
@@ -347,7 +347,7 @@ public void findCustomerByName() {
 }
 ```
 
-![image-20220407152044583](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152044583.png)
+![image-20220407152044583](https://lsky.hhdxw.top/imghub/img/image-20220407152044583.png)
 
 ### 3.添加客户
 
@@ -371,7 +371,7 @@ public void addCustomer(){
 }
 ```
 
-![image-20220407152231144](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152231144.png)
+![image-20220407152231144](https://lsky.hhdxw.top/imghub/img/image-20220407152231144.png)
 
 ### 4.更新客户
 
@@ -395,7 +395,7 @@ public void updateCustomer() {
 }
 ```
 
-![image-20220407152334704](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152334704.png)
+![image-20220407152334704](https://lsky.hhdxw.top/imghub/img/image-20220407152334704.png)
 
 ### 5.删除客户
 
@@ -414,7 +414,7 @@ public void deleteCustomer() {
 }
 ```
 
-![image-20220407152346163](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152346163.png)
+![image-20220407152346163](https://lsky.hhdxw.top/imghub/img/image-20220407152346163.png)
 
 
 
@@ -436,20 +436,20 @@ public void deleteCustomer() {
 
 (4) 将CustomerMapper.xml文件复制到com下
 
-![image-20220407152650898](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152650898.png)
+![image-20220407152650898](https://lsky.hhdxw.top/imghub/img/image-20220407152650898.png)
 
 (5) 复制后的CustomerMapper.Xml中的namespacel的值修改：com.CustomerMapper
 
-![image-20220407152719404](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152719404.png)
+![image-20220407152719404](https://lsky.hhdxw.top/imghub/img/image-20220407152719404.png)
 
 (6) 修改mybatis-config.xml文件中resource属性的值：
 
-![image-20220407152735127](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152735127.png)
+![image-20220407152735127](https://lsky.hhdxw.top/imghub/img/image-20220407152735127.png)
 
 (7) 修改测试方法中的值：
 
-![image-20220407152802930](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152802930.png)
+![image-20220407152802930](https://lsky.hhdxw.top/imghub/img/image-20220407152802930.png)
 
 运行测试结果如下：
 
-![image-20220407152822914](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220407152822914.png)
+![image-20220407152822914](https://lsky.hhdxw.top/imghub/img/image-20220407152822914.png)

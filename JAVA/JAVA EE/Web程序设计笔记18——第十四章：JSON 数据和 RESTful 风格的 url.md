@@ -134,7 +134,7 @@ private String password;
 
 在webapp下创建文件夹 js 在文件夹下复制文件
 
-![image-20220513233035481](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220513233035481.png)
+![image-20220513233035481](https://lsky.hhdxw.top/imghub/img/image-20220513233035481.png)
 
 ### 7.创建UserController方法
 
@@ -154,7 +154,7 @@ public class UserController {
 
 ### 8.发布项目
 
-![image-20220513231414012](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220513231414012.png)
+![image-20220513231414012](https://lsky.hhdxw.top/imghub/img/image-20220513231414012.png)
 
 ## 4.RESTful支持
 
@@ -219,4 +219,4 @@ function search(){
 
 ### 3.发布项目
 
-![image-20220513232938453](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220513232938453.png)
+![image-20220513232938453](https://lsky.hhdxw.top/imghub/img/image-20220513232938453.png)

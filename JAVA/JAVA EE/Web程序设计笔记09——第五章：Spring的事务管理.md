@@ -92,11 +92,11 @@ public void transferTest() {
 
 1.无异常
 
-![image-20220331225557619](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220331225557619.png)
+![image-20220331225557619](https://lsky.hhdxw.top/imghub/img/image-20220331225557619.png)
 
 2.有异常
 
-![image-20220331225618374](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220331225618374.png)
+![image-20220331225618374](https://lsky.hhdxw.top/imghub/img/image-20220331225618374.png)
 
 ## 二、基于Annotation（注解）方式的声明式事务
 
@@ -137,9 +137,9 @@ public void transferTest() {
 
 1.无异常：
 
-![image-20220331225721435](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220331225721435.png)
+![image-20220331225721435](https://lsky.hhdxw.top/imghub/img/image-20220331225721435.png)
 
 2.有异常：
 
-![image-20220331225754769](https://yovinchen-1308133012.cos.ap-beijing.myqcloud.com/image-20220331225754769.png)
+![image-20220331225754769](https://lsky.hhdxw.top/imghub/img/image-20220331225754769.png)
 
