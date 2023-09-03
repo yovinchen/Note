@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "6515734ec8ec4856",
+    "id": "4d4b4d86f670ae5b",
     "type": "split",
     "children": [
       {
-        "id": "9aac8742ad1c417c",
+        "id": "ff9db9787498979d",
         "type": "tabs",
         "children": [
           {
-            "id": "1627d09ae486f69c",
+            "id": "d48d31f3091dee36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件测试/软件测试-软测基础.md",
-                "mode": "source",
+                "file": "Docker 2375端口开启外网访问.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7d9cdd2c78820643",
+    "id": "782d94ea878b2239",
     "type": "split",
     "children": [
       {
-        "id": "7bdf743935451396",
+        "id": "57c9e57c83b941f2",
         "type": "tabs",
         "children": [
           {
-            "id": "7bdfd42654fb2c49",
+            "id": "8afd0c6afa6fd8cc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "04722c6153992570",
+            "id": "98599f7a0166f403",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "https://lsky.hhdxw.top/imghub/img
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "aba0fce28dc49642",
+            "id": "29696670a6439e47",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,47 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 300
   },
   "right": {
-    "id": "c478b4c7ee8a6580",
+    "id": "22453ec28951183f",
     "type": "split",
     "children": [
       {
-        "id": "7405d7cdf96c29e7",
+        "id": "271c7c8c70ff4bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "d8965d91c701cdd6",
+            "id": "9f0f3194d1f3bf15",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件测试/软件测试-软测基础.md",
+                "file": "Docker 2375端口开启外网访问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "32a0a6791f655e9d",
+            "id": "d79f9ec1a5c9fef9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件测试/软件测试-软测基础.md",
+                "file": "Docker 2375端口开启外网访问.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4f8c1d97ee46fc94",
+            "id": "8d74ac1c73486846",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "05c2a27f0f9ada08",
+            "id": "0ecc060145124902",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件测试/软件测试-软测基础.md"
+                "file": "Docker 2375端口开启外网访问.md"
               }
             }
           }
@@ -146,44 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1627d09ae486f69c",
+  "active": "d48d31f3091dee36",
   "lastOpenFiles": [
-    "软件测试/软件测试-移动app特性.md",
-    "软件测试/软件测试-软测基础.md",
-    "软件测试/软件测试-黑白盒测试.md",
     "软件测试/软件测试-安全测试.md",
-    "HomeBrew/Mac OS 神器 HomeBrew.md",
-    "开发工具/安装教程/Portainer.md",
-    "开发工具/Docker基本命令.md",
-    "开发工具/安装教程/RabbitMQ.md",
-    "开发工具/安装教程/Nginx.md",
-    "开发工具/安装教程/Mysql.md",
-    "Linux/LINUX常用命令总结.md",
-    "开发工具/安装教程/MongoDB.md",
-    "开发工具/安装教程/Redis.md",
-    "开发工具/Git基本命令.md",
-    "开发工具/安装教程/Tomcat.md",
-    "开发工具/Redis基本命令.md",
-    "开发工具/Node基本命令.md",
-    "开发工具/安装教程",
-    "HomeBrew/Git.md",
-    "青空笔记/Docker笔记/Docker容器技术.md",
-    "青空笔记/数据结构笔记/数据结构与算法（四）.md",
-    "教程/mac命令.md",
-    "青空笔记/SpringCloud笔记/SpringCloud笔记（四）.md",
-    "开发工具/Untitled.md",
-    "开发工具",
-    "青空笔记/SpringCloud笔记/SpringCloud笔记（三）.md",
-    "青空笔记/SpringCloud笔记/SpringCould笔记（二）.md",
-    "青空笔记/SpringCloud笔记/SpringCloud笔记（一）.md",
-    "未命名.canvas",
-    "照片/Pasted image 20230803101741.png",
-    "照片",
-    "Pasted image 20230803101614.png",
-    "Pasted image 20230803101543.png",
-    "数据库系统原理/单元复习资料/数据库第二章.png",
-    "面试",
-    "教程/网站面板",
-    "教程"
+    "软件测试/软件测试-黑白盒测试.md",
+    "软件测试/软件测试-软测基础.md",
+    "软件测试/软件测试-自动化测试.md"
   ]
 }
